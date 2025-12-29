@@ -16,3 +16,6 @@ Stepwise Explanation:
 5) After recieveing data from Tables. It again goes to Groq Chat Model and converted to user friendly output that furtur passes to second twilio trigger
 6) Second Trigger will send the incoming message to the user.
 
+![Whatsapp Chat](Whatsapp.png)
+This image shows the chat done while testing of the Bot.
+
